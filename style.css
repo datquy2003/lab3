@@ -8,11 +8,11 @@ body {
 
 section {
     display: flex;
-    justify-content: center; 
-    align-items: center;    
+    justify-content: center;  
+    align-items: center;      
     flex-wrap: wrap;
     text-align: center;
-    min-height: 90vh;     
+    min-height: 100vh;       
 }
 
 article {
