@@ -12,7 +12,7 @@ section {
     align-items: center;     
     flex-wrap: wrap;
     text-align: center;
-    min-height: 90vh;    
+    min-height: 100vh;    
 }
 
 article {
@@ -36,7 +36,7 @@ p.price {
     font-weight: bold;
     color: #27dcc4;
     margin: 10px 0;
-    padding: 30px 0;
+    padding: 20px 0;
 }
 
 ul {
